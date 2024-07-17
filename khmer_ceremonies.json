@@ -1,5 +1,47 @@
 [
-    {"Name": "Pchum Ben", "Date": "2024-09-22", "Description": "Ancestor Day"},
-    {"Name": "Visak Bochea", "Date": "2024-05-13", "Description": "Buddha's Birthday"},
-   
+    {
+        "Name": "ពិធីបុណ្យភ្ជុំបិណ្ឌ",
+        "Date": "2024-09-22",
+        "Description": "Pchum Ben - Ancestor Day"
+    },
+    {
+        "Name": "ពិធីបុណ្យចូលឆ្នាំថ្មី",
+        "Date": "2024-04-13",
+        "Description": "Khmer New Year"
+    },
+    {
+        "Name": "ពិធីបុណ្យវិសាខបូជា",
+        "Date": "2024-05-13",
+        "Description": "Visak Bochea - Buddha's Birthday, Enlightenment, and Passing"
+    },
+    {
+        "Name": "ពិធីបុណ្យអុំទូក",
+        "Date": "2024-11-10",
+        "Description": "Water Festival - Boat Racing and Moon Salutation"
+    },
+    {
+        "Name": "ពិធីបុណ្យមាឃបូជា",
+        "Date": "2024-02-04",
+        "Description": "Meak Bochea - Commemorates Buddha's teachings"
+    },
+    {
+        "Name": "ពិធីបុណ្យចេញវស្សា",
+        "Date": "2024-10-27",
+        "Description": "End of Buddhist Lent"
+    },
+    {
+        "Name": "ពិធីបុណ្យកឋិនទាន",
+        "Date": "2024-10-28",
+        "Description": "Kathina Ceremony - Offering of robes to monks"
+    },
+    {
+        "Name": "ពិធីបុណ្យពាក់មី",
+        "Date": "2024-12-22",
+        "Description": "Winter Solstice Festival"
+    },
+    {
+        "Name": "ពិធីបុណ្យរាប់បាត",
+        "Date": "2024-07-19",
+        "Description": "Preah Reach Bat Ceremony - Offering of food to monks"
+    }
 ]
